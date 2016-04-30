@@ -1,0 +1,9 @@
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\Calculadora\calculadora\calculadora\bin\Debug\calculadora.exe.config
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\Calculadora\calculadora\calculadora\bin\Debug\calculadora.exe
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\Calculadora\calculadora\calculadora\bin\Debug\calculadora.pdb
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\Calculadora\calculadora\calculadora\obj\Debug\calculadora.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\Calculadora\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\Calculadora\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\Calculadora\calculadora\calculadora\obj\Debug\calculadora.exe
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\Calculadora\calculadora\calculadora\obj\Debug\calculadora.pdb
+\\vmware-host\Shared Folders\Dropbox (Personal)\DAW1\Programacion\visual\Calculadora\calculadora\calculadora\obj\Debug\calculadora.Calculadora.resources
